@@ -8,7 +8,7 @@ to configuring a Linux server, securing it with proper IAM and Security Group ru
 and serving a live webpage using Nginx.
 
 ## Architecture
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture/Architecture Diagram.png)
 
 ## AWS Resources
 - VPC: 10.0.0.0/16
