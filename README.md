@@ -33,7 +33,7 @@ http://13.48.6.29
 *Public subnet configured with CIDR 10.0.1.0/24*
 
 ### Route Table
-![route table.png](screenshots/route-table.png)
+![Route Table.png](screenshots/routetable.png)
 *Route table configured with 0.0.0.0/0 route pointing to the Internet Gateway*
 
 ### Internet Gateway
