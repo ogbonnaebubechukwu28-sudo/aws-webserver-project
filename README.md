@@ -33,25 +33,25 @@ http://13.48.6.29
 *Public subnet configured with CIDR 10.0.1.0/24*
 
 ### Route Table
-![Route Table.png](screenshots/routetable.png)
+![Route Table.png](screenshots/route-table.png)
 *Route table configured with 0.0.0.0/0 route pointing to the Internet Gateway*
 
 ### Internet Gateway
-![internet gateway](screenshots/internet-gateway.png)
+![Internet Gateway](screenshots/internet-gateway.png)
 *Internet Gateway created and attached to the VPC*
 
 ### EC2 Instance
-![ec2 instance](screenshots/ec2-instance.png)
+![EC2 Instance](screenshots/ec2-instance.png)
 *EC2 Ubuntu instance running with a public IP address assigned*
 
 ### Security Group
-![security groupp](screenshots/security-group.png)
+![Security Group](screenshots/security-group.png)
 *Security group configured to allow SSH (port 22), HTTP (port 80), and HTTPS (port 443)*
 
 ### Nginx Service Running
-![nginx running](screenshots/nginx-running.png)
+![Nginx Running](screenshots/nginx-running.png)
 *Nginx web server active and running on the EC2 instance*
 
 ### Live Webpage
-![browser webpage](screenshots/browser-webpage.png)
+![Browser Webpage](screenshots/browser-webpage.png)
 *Custom webpage successfully deployed and accessible via the EC2 public IP*
